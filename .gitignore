@@ -3,4 +3,4 @@
 .idea/workspace.xml
 public/images/
 public/javascripts/
-node_modules
+/node_modules/
