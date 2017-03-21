@@ -5,7 +5,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'API Basejump: Timestamp microservice' });
+  res.render('index', { title: 'API Basejump: Timestamp Microservice' });
 });
 
 router.get('/:date', function (req, res) {
